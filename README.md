@@ -1,30 +1,21 @@
-# 📝 Programming II – PartialExam-POO-2025-02-B
+## Getting Started
 
-## Context
-You are hired to develop a simple system for a university.  
-The system must manage students.  
-Read the UML diagram and implement it in **Java** using encapsulation and overloaded constructors.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## UML Diagram
-👉 [View UML Diagram](https://www.rapidcharts.ai/editor/a371fd68-e5fc-4daf-9a89-e64c5efabca5/View)
+## Folder Structure
 
-## Instructions
-1. Implement the `Student` class as in the UML diagram.  
-2. All attributes must be **private**.  
-3. Use **getters and setters** where necessary.  
-4. Implement the **three constructors** (default, with name+age, with name+age+id).  
-5. Implement the method `showInfo()`.  
-6. In a `Main` class, create at least **two Student objects** using different constructors and test the method `showInfo()`.  
+The workspace contains two folders by default, where:
 
----
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-## Reflection Question
-Write a short paragraph (5–8 sentences) in English:  
-👉 *How did you apply your own learning strategies to solve this exam? Mention one difficulty and how you solved it.*
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
----
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Evaluation Criteria
-- **UML implementation in Java (attributes, constructors, methods):** 50%  
-- **Objects created and tested in `Main`:** 20%  
-- **Reflection** 30%  
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+respuesta:
+las extratejias que hice fue aplique fue pedir a las inteligencias artificilaes que me pasaran ejercicios como los que me dio el profesor y practicar en multiples codigos, ademas de en todas la clases preguntar toodo lo que no me acuerdo y la dificultad del parcial fue sencilla pues literalmente fue igual al que me dio ademas que el procedimiento fue muy sencillo.
